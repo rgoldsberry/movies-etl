@@ -1,3 +1,9 @@
+# python config
+config.py
+
+#large data files
+ratings.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
